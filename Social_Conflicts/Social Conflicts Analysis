@@ -1,0 +1,10 @@
+
+
+This data analysis seeks to explore the Social conflicts that have occured in selected 7 countries of the world according to the data source.
+There are many variables to evaluate. These variables are mostly categocrical variables with numerical coding representing an idea.
+I recoded the numbers to align with the values thy represent. Hence making them object data types.
+During the cause of data transportation in a pipeline medium, parts of the dataset was lost such as the involvement of Lesbian, Gay, Bisexual, Transgender, or Queer/Questioning
+(LGBTQ) community in the social crises examined.
+Data source is https://www.strausscenter.org/
+Codebook is located @ https://www.strausscenter.org/wp-content/uploads/SCAD_33_Codebook.pdf
+According to the result of the analysis, Nigeria had the highest records in all the variables such as whether the government employed repreesion or not.¶
