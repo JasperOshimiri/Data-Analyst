@@ -1,4 +1,4 @@
-# The Data Science Dude.
+# Hi, I am Oshimiri Henry Jasper
 
 What is Data Science?
 
