@@ -4,17 +4,21 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
 
                                                                BELOW ARE MY ANALYSIS PROJECTS
                                                                       PYTHON PROJECTS
-1. Analysis of Bird Strikes on Aircrafts
-2. Clustering / Segmentation of Customers of a fictional US based Regional Sales data
-3. Customer Segmentation and Exploratory Data Analysis a certain sales company
-4. Customer clustering of a Business
+1. Analysis of Bird Strikes on Aircrafts @ https://github.com/JasperOshimiri/Data-test/blob/main/Bird%20Strikes/Bird%20Strikes%20EDA.ipynb
+
+2. Clustering / Segmentation of Customers of a fictional US based Regional Sales data @ https://github.com/JasperOshimiri/Data-test/blob/main/Clustering%20Analysis/Customer%20Segmentation.%20Clustering%20(2).ipynb
+
+3. Customer Segmentation and Exploratory Data Analysis a certain sales company @ https://github.com/JasperOshimiri/Data-test/blob/main/Clustering%20Analysis/Customer%20Segmentation.%20Clustering%20(2).ipynb
+
+4. Customer clustering of a Business @ https://github.com/JasperOshimiri/Data-test/blob/main/Customer%20Segmentation/Customer%20Segmentation.%20Clustering%20(1).ipynb
+
 5. Analysis of the global causes of deaths
-6. Global HIV and AIDS analysis
-7. Analysis of Refugee and IDP Camps in Nigeria
-8. Analysis of Journalists Killed on duty globally
-9. Exploratory analysis of the prices of various laptops
-10. Analysis of global missing migrants
-11. Global Migration re-analyzed with python
+7. Global HIV and AIDS analysis
+8. Analysis of Refugee and IDP Camps in Nigeria
+9. Analysis of Journalists Killed on duty globally
+10. Exploratory analysis of the prices of various laptops
+11. Analysis of global missing migrants
+12. Global Migration re-analyzed with python
 
                                             ANALYSIS AND VISUALIZATIONS USING POWER BI (DASHBOARDS AVAILABLE IN PDFs)
  1. 100000 Sales record analysis
