@@ -14,6 +14,7 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
 8. Analysis of Journalists Killed on duty globally
 9. Exploratory analysis of the prices of various laptops
 10. Analysis of global missing migrants
+11. Global Migration re-analyzed with python
 
                                             ANALYSIS AND VISUALIZATIONS USING POWER BI (DASHBOARDS AVAILABLE IN PDFs)
  1. 100000 Sales record analysis
@@ -37,5 +38,16 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
  19. Sales Data Analysis
  20. Urbanization in West Africa
 
+                                                     DATA ANALYSIS WITH STRUCTURED QUERY LANGUAGE (SQL)
+  1. Analysis of drugs abuse in the USA
+  2. Stack Overflow survey 2021 analysis
+  3. World Suicide Attacks
+  4. Air Cargo Data Analysis
+  5. Inc5000 2019 Analysis
+  6. Analysis of Slave Trade in the USA
+  7. Analysis of Toys Sales by a certain Business
+  8. Analysis of Social Conflicts in selected 7 countries of the world
+  9. Analysis of US Mass shooting
+  10. Analysis of Road Accidents in the USA.
           
 
