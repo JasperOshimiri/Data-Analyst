@@ -12,13 +12,20 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
 
 4. Customer clustering of a Business @ https://github.com/JasperOshimiri/Data-test/blob/main/Customer%20Segmentation/Customer%20Segmentation.%20Clustering%20(1).ipynb
 
-5. Analysis of the global causes of deaths
-7. Global HIV and AIDS analysis
-8. Analysis of Refugee and IDP Camps in Nigeria
-9. Analysis of Journalists Killed on duty globally
-10. Exploratory analysis of the prices of various laptops
-11. Analysis of global missing migrants
-12. Global Migration re-analyzed with python
+5. Analysis of the global causes of deaths @ https://github.com/JasperOshimiri/Data-test/blob/main/Deaths/Deaths%20Analysis%20EDA%20(1).ipynb
+
+6. Global HIV and AIDS analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Global%20HIV-AIDS/Global%20AIDS%20Infection%20Exploratory%20Analysis.ipynb
+
+7. Analysis of Refugee and IDP Camps in Nigeria @ https://github.com/JasperOshimiri/Data-test/blob/main/IDP-Refugee%20Analysis/Analysis%20of%20the%20state%20of%20IDP%20Camps%20in%20Five%20Northern%20States%20of%20Nigeria.ipynb
+
+8. Analysis of Journalists Killed on duty globally @ https://github.com/JasperOshimiri/Data-test/blob/main/Killed%20Journalists/Killed%20Journalists%20Revisited.ipynb
+
+9. Exploratory analysis of the prices of various laptops @ https://github.com/JasperOshimiri/Data-test/blob/main/Laptop%20Prices%20EDA/Laptop%20Specifications%20and%20Prices%20Analysis.ipynb
+
+10. Analysis of global missing migrants @ https://github.com/JasperOshimiri/Data-test/blob/main/Missing_Migrants/Missing_Migrants.ipynb
+
+11. Global Migration re-analyzed with python @ https://github.com/JasperOshimiri/Data-test/blob/main/Revisited_Migration/Analysis%20and%20Visualization%20of%20Global%20Migration%20from%202016%20to%202022..ipynb
+
 
                                             ANALYSIS AND VISUALIZATIONS USING POWER BI (DASHBOARDS AVAILABLE IN PDFs)
  1. 100000 Sales record analysis
