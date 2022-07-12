@@ -26,9 +26,18 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
 
 11. Global Migration re-analyzed with python @ https://github.com/JasperOshimiri/Data-test/blob/main/Revisited_Migration/Analysis%20and%20Visualization%20of%20Global%20Migration%20from%202016%20to%202022..ipynb
 
+12. Analysis of Slave Trade in the USA @ https://github.com/JasperOshimiri/Data-test/blob/main/Slave%20Trade%20in%20USA/Analysis%20of%20Slave%20Trade%20in%20the%20USA%20from%201829%20%20to%201861.ipynb
+
+13. Analysis of Social Conflicts in selected 7 countries of the world @ https://github.com/JasperOshimiri/Data-test/tree/main/Social_Conflicts
+
+14. Analysis of Road Accidents in the USA @ https://github.com/JasperOshimiri/Data-test/blob/main/US_Accidents/US_Accidents.ipynb
+
+15. Analysis of US Mass shooting @ https://github.com/JasperOshimiri/Data test/blob/main/US_Shooting/A%20Predictive%20and%20Exploratory%20Data%20Analysis%20of%20Mass%20Shooting%20in%20the%20United%20States%20in%202018.ipynb
+  
+
 
                                             ANALYSIS AND VISUALIZATIONS USING POWER BI (DASHBOARDS AVAILABLE IN PDFs)
- 1. 100000 Sales record analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Us-CMSs%20Data%20(1).pdf
+ 1. US Hospitals Review by CMS @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Us-CMSs%20Data%20(1).pdf
  
  2. Sales Sales data analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/100K%20Sales%20Data%20Analysis.pdf
  
@@ -77,16 +86,19 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
  24. Hotel Booking Data analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Hotel%20Booking%20Data%20Analysis.pdf
  
 
+
                                                      DATA ANALYSIS WITH STRUCTURED QUERY LANGUAGE (SQL)
-  1. Analysis of drugs abuse in the USA
-  2. Stack Overflow survey 2021 analysis
-  3. World Suicide Attacks
-  4. Air Cargo Data Analysis
-  5. Inc5000 2019 Analysis
-  6. Analysis of Slave Trade in the USA
-  7. Analysis of Toys Sales by a certain Business
-  8. Analysis of Social Conflicts in selected 7 countries of the world
-  9. Analysis of US Mass shooting
-  10. Analysis of Road Accidents in the USA.
+  1. Analysis of drugs abuse in the USA @ https://github.com/JasperOshimiri/Data-test/blob/main/SQL/Drug%20Abuse%20Analysis/Drug%20Abuse.sql
+  
+  2. Stack Overflow survey 2021 analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/SQL/Stack%20Overflow/Stack%20Overflow%20Survey.sql
+  
+  3. World Suicide Attacks @ https://github.com/JasperOshimiri/Data-test/blob/main/SQL/World%20Suicide%20Attacks/WORLD%20SUICIDE_ANALYSIS.sql
+  
+  4. Air Cargo Data Analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/SQL/AIR_CARGO_ANALYSIS.sql
+  
+  5. Inc5000 2019 Analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/SQL/INC_5000.sql
+
+  6. Analysis of Toys Sales by a certain Business @  https://github.com/JasperOshimiri/Data-test/blob/main/Toy%20Sales/MEXICO%20TOY%20ANALYSIS.sql
+ 
           
 
