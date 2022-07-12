@@ -28,26 +28,54 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
 
 
                                             ANALYSIS AND VISUALIZATIONS USING POWER BI (DASHBOARDS AVAILABLE IN PDFs)
- 1. 100000 Sales record analysis
- 2. Sales Sales data analysis
- 3. Analysis of aid workers casualties
- 4. Airbnb Patronage data analysis
- 5. BigMart Sales data analysis
- 6. Global Covid-19 Analysis
- 7. Cyclic Bike Share Analysis
- 8. Analysis of the death of journalists globally
- 9. The differing prices of Diesel Prices in Nigerian states
- 10. NLP analysis of Elon Musk's Tweets
- 11. Global Terrorism data analysis
- 12. Global Migration Data Analysis
- 13. Analysis of foreign refugees in Nigeria
- 14. Analysis of Superbowl Commercials
- 15. NLP Analysis of annonymous tweets
- 16. Analysis of Accidents in the USA from 2016-2021
- 17. Analysis of a US social Program
- 18. US Based hospital review by CMS 
- 19. Sales Data Analysis
- 20. Urbanization in West Africa
+ 1. 100000 Sales record analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Us-CMSs%20Data%20(1).pdf
+ 
+ 2. Sales Sales data analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/100K%20Sales%20Data%20Analysis.pdf
+ 
+ 3. Analysis of aid workers casualties @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Aid%20worker%20Dataset.pdf
+ 
+ 4. Airbnb Patronage data analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Airbnb%20Patronage%20Analysis.pdf
+ 
+ 5. BigMart Sales data analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/BIG%20MART%20SALES%20(1).pdf
+ 
+ 6. Global Covid-19 Analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/COVID%2019.pdf
+ 
+ 7. Cyclic Bike Share Analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Cyclic%20Byke%20Share1.pdf
+ 
+ 8. Analysis of the death of journalists globally @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Deaths%20of%20Journalist%20in%20the%20world.pdf
+ 
+ 9. The differing prices of Diesel Prices in Nigerian states @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Diesel%20Prices%20in%20Nigerian%20States.pdf
+ 
+ 10. NLP analysis of Elon Musk's Tweets @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Elon%20Musk%20Tweet%20(1).pdf
+ 
+ 11. Global Terrorism data analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Global%20Terrorism%20Dataset.pdf
+ 
+ 12. Global Migration Data Analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Migration.pdf
+ 
+ 13. Analysis of foreign refugees in Nigeria @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Refugee%20Dataset.pdf
+ 
+ 14. Analysis of Superbowl Commercials @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Superbowl%20Commercials.pdf
+ 
+ 15. NLP Analysis of annonymous tweets @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Tweet%20FOR%20NLP.pdf
+ 
+ 16. Analysis of Accidents in the USA from 2016-2021 @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/US%20Accidents%20from%202016-2021%20(1).pdf
+ 
+ 17. Analysis of a US social Program @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/US%20Social%20Programs.pdf
+ 
+ 18. US Based hospital review by CMS @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/US-CMS-Review%20of%20Hospitals.pdf
+ 
+ 19. Sales Data Analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/USA%20SALES%20DATASET.pdf
+ 
+ 20. Urbanization in West Africa @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Urbanization%20in%20West%20Afica.pdf
+ 
+ 21. Analysis of Drugs abuse in Nigeria @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Drug%20Data.pdf
+ 
+ 22. Global Ebola Casualty Analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Ebola%20Deaths%20across%20Nigerian%20States.pdf
+ 
+ 23. HR Data Analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/HR%20Dataset%20Viz.pdf
+ 
+ 24. Hotel Booking Data analysis @ https://github.com/JasperOshimiri/Data-test/blob/main/Open%20to%20see%20the%20Visualization%20of%20my%20projects/Hotel%20Booking%20Data%20Analysis.pdf
+ 
 
                                                      DATA ANALYSIS WITH STRUCTURED QUERY LANGUAGE (SQL)
   1. Analysis of drugs abuse in the USA
