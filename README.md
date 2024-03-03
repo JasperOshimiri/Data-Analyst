@@ -4,6 +4,8 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
 
   BELOW ARE MY ANALYSIS PROJECTS
                                                               PYTHON PROJECTS
+01.CUSTOMER CHURN ANALYSIS@ https://github.com/JasperOshimiri/Data-test/blob/main/Customer%20Churn%20Analysis.ipynb
+                                                              
 1. Analysis of Bird Strikes on Aircrafts @ https://github.com/JasperOshimiri/Data-test/blob/main/Bird%20Strikes/Bird%20Strikes%20EDA.ipynb
 
 2. Clustering / Segmentation of Customers of a fictional US based Regional Sales data @ https://github.com/JasperOshimiri/Data-test/blob/main/Clustering%20Analysis/Customer%20Segmentation.%20Clustering%20(2).ipynb
