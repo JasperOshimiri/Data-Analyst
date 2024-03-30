@@ -8,6 +8,9 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
                                                               
                                                               
                                                               PYTHON PROJECTS
+                                                              
+01. NETFLIX TV SHOWS AND MOVIES ANALYSIS: https://github.com/JasperOshimiri/Data-test/blob/main/Netflix%20TV%20Show%20and%20Movies%20Analysis.ipynb
+                                                              
 
 01. WORLD ECONOMIC INDICATORS : https://github.com/JasperOshimiri/Data-test/blob/main/Economic%20Indicators%20Analysis.ipynb
 
