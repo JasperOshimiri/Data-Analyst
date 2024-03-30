@@ -9,6 +9,8 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
                                                               
                                                               PYTHON PROJECTS
 
+01. 
+
                                                               
 01.CUSTOMER CHURN ANALYSIS@ https://github.com/JasperOshimiri/Data-test/blob/main/Customer%20Churn%20Analysis.ipynb
                                                               
