@@ -77,6 +77,8 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
   
 
                              DATA ANALYSIS WITH STRUCTURED QUERY LANGUAGE (SQL)
+
+  01. Netflix TV Show and Movie Data Analysis: https://github.com/JasperOshimiri/Data-test/blob/main/Netflix%20Data%20Set%20Analysis.sql
     
   1. Analysis of drugs abuse in the USA @ https://github.com/JasperOshimiri/Data-test/blob/main/SQL/Drug%20Abuse%20Analysis/Drug%20Abuse.sql
 
