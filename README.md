@@ -77,6 +77,7 @@ I am a Data Analyst with vast experience in Exploratory Data Analysis, apllicati
   
 
                              DATA ANALYSIS WITH STRUCTURED QUERY LANGUAGE (SQL)
+    01. Analysis of Human Health Agencies Data in 10 Selected States of USA: https://github.com/JasperOshimiri/Data-test/blob/main/HHA%20Data%20Analysis.sql
 
   01. Netflix TV Show and Movie Data Analysis: https://github.com/JasperOshimiri/Data-test/blob/main/Netflix%20Data%20Set%20Analysis.sql
     
